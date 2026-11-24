@@ -1,0 +1,14 @@
+{
+  "name": "abdul-salam-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node serve.mjs",
+    "build": "node build.mjs",
+    "preview": "node serve.mjs --dist"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
